@@ -202,7 +202,7 @@ We welcome contributions to Fuel-Forge! Please follow these steps:
 
 ---
 
-**Made with ❤️ **
+**Made with ❤️**
 **Testing out PR-Bot**
 **Testing this thing again**
 
